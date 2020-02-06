@@ -77,7 +77,7 @@ public class EntradaBlogVP {
 	}
 	
          /**
-         * No tiene porqué tener argumentos.
+         * funcion main crea una entrada y la reproduce por pantalla
          * @param args         
          */	
 	public static void main(String[] args) {
