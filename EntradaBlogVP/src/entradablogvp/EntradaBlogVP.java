@@ -1,19 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package entradablogvp;
 
-/**
- *
- * @author LC
+package entradablogvp;
+/*
+ * @version 1.00.0
+ * @author Vadim Postnov
  */
-/*Clase para manejar las entradas de un blog.
- * La clase se creó el 21/3/1999 por Ana López.
- * Esta es la versión 2.3
- */
-//Modificar.
+
 public class EntradaBlogVP {
 	//separador es el ccarácter que separa ENTRADA DE del
 	//nombre del autor
